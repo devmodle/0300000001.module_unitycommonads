@@ -1,0 +1,24 @@
+{
+    "name": "Module.UnityCommonAds",
+    "rootNamespace": "",
+    "references": [
+        "MaxSdk.Scripts",
+        "Module.UnityIronSrc",
+        "Module.UnityCommonDefine",
+        "Module.UnityCommonAccess",
+        "Module.UnityCommonFactory",
+        "Module.UnityCommonExtension",
+        "Module.UnityCommonFunction",
+        "Module.UnityCommonUtility",
+        "Module.UnityCommonExternals"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
